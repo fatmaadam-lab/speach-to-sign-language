@@ -1,4 +1,5 @@
-# speach-to-sign-language
+<h1> Speach To Sign Language </h1>
+<hr>
 
 <img src="https://github.com/fatmaadam-lab/speach-to-sign-language/blob/main/SingLang(video)/images/stsl-img1.jpg"/>
 <img src="https://github.com/fatmaadam-lab/speach-to-sign-language/blob/main/SingLang(video)/images/stsl-img2.jpg"/>
